@@ -1,5 +1,6 @@
 # Circus
 The Circus Project
+- used to demo abstract classes, interfaces, packages
 
 ### Credits
 
